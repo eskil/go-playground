@@ -30,3 +30,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Emacs files
+\#*\#
+*~
+
+# MacOS
+.DS_Store
